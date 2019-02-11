@@ -1,0 +1,17 @@
+{
+    "name": "VL",
+    "description": "Project v.1",
+    "license": "private",
+    "keywords": [
+        "framework"
+    ],
+    "homepage": "https://englishtest/",
+    "autoload": {
+        "psr-4": {
+            "Src\\": "src"
+        }
+    },
+    "require": {
+        "twbs/bootstrap": "4.1.3"
+    }
+}
